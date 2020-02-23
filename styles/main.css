@@ -358,7 +358,7 @@ td {
   flex-direction: column;
 }
 .site-header {
-  padding: 48px 0;
+  
   text-align: center;
 }
 .site-header .site-title {
@@ -413,7 +413,7 @@ td {
 .post-container .post .post-title {
   font-size: 28px;
   text-align: center;
-  padding: 24px 0;
+  
   font-weight: 600;
 }
 .post-container .post .post-info {
